@@ -1,0 +1,20 @@
+
+-BOX SHOOTER-3D GAME
+
+Game will run in Mozilla Firefox, or Edge Browser. 
+
+Instructions:
+Shoot projectiles at the boxes that come around the screen.
+Green boxes: add 5 to score.
+White boxes: add 3 seconds to timer.
+Yellow boxes: subtract 3 seconds from timer.
+Play with a mouse, on a laptop. Left-Click on mouse to shoot the boxes. 
+Move cursor to look around the world.
+When your game ends, shoot at "PLAY AGAIN" to restart game.
+Use headphones for best audio experience. Use a separate mouse, it'll work with laptop trackpad too but not very well.
+When done playing, press 'ESC' Key to get out of gameplay.
+
+*Text me an SS of your highest score, I have a smol gift for the person who scores the most.*
+ 
+Love,
+Sheza
