@@ -17,3 +17,9 @@ Use headphones for best audio experience. Use a separate mouse, it'll work with 
 When done playing, press 'ESC' Key to get out of gameplay.
 
 Note for friends: Send me a screenshot of your high score, I have a small gift for the highest scorer :)
+
+
+![image](https://user-images.githubusercontent.com/68891347/116863399-b07edd80-ac1f-11eb-9334-173f4c89dbb8.png)
+## Gameplay:
+![image](https://user-images.githubusercontent.com/68891347/116863498-d5735080-ac1f-11eb-8bef-9f965740b823.png)
+
