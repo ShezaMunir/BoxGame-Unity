@@ -1,7 +1,7 @@
 
 # BOX SHOOTER-3D GAME
 
-Game will run in Mozilla Firefox, or Edge Browser. 
+Game will run in Mozilla Firefox, or Edge Browser (works dierectly as a .exe file on Windows). 
 
 ## Instructions:
 * Shoot projectiles at the boxes that show up around the screen.
